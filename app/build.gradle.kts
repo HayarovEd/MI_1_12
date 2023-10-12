@@ -7,15 +7,15 @@ plugins {
 }
 
 android {
-    namespace = "com.fast.zai.loans"
+    namespace = "heya.money.mama"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.fast.zai.loans"
+        applicationId = "heya.money.mama"
         minSdk = 21
         targetSdk = 34
-        versionCode = 4
-        versionName = "4.0"
+        versionCode = 1
+        versionName = "1.0"
         multiDexEnabled =  true
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
@@ -26,15 +26,15 @@ android {
 
     signingConfigs {
         getByName("debug") {
-            storeFile = file("ID72.keystore")
-            keyAlias = "com.fast.zai.loans"
+            storeFile = file("ID428.keystore")
+            keyAlias = "heya.money.mama"
             storePassword = "mypass"
             keyPassword = "mypass"
         }
         create("release") {
-            keyAlias = "com.fast.zai.loans"
+            keyAlias = "heya.money.mama"
             keyPassword = "mypass"
-            storeFile = file("ID72.keystore")
+            storeFile = file("ID428.keystore")
             storePassword = "mypass"
             enableV2Signing = true
         }
