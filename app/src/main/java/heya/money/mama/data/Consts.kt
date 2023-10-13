@@ -2,7 +2,7 @@ package heya.money.mama.data
 
 const val APP_METRICA = "b8b203c2-1e0f-477d-8fb5-0bb70a6add22"
 const val MY_TRACKER = "54576849162038910589"
-const val APY_KEY = "lMD1XZSpDSq0G3Yd5Vzf1K5FrwD2eD+eqzrbHDGcog1QChj1iYwHeevsh4x3WEwwiDBhqJIrXVNreYgtMUWmNgKSbn5AH45eIVuTdGzW0FdzbEie3YqvOAn1lvgNY8wxFh4VFdvHAY5WY2V8THqMjFXk3HyRepTLxX2e+EnqUeKKAIHtWONmIv9dkVE="
+const val APY_KEY = "94Z4ebZgFRsE06h8wtEZQibk+u1mHl8hXfoI0L/i7Y8cvgugMiGB2sC2jmsJncvGPwUEuePJsRZ4ywwYZo7BSdSsmrMOMv0dyGYd9eIIjyIoOHckUgKHX3f/7a8/bk3XEBLAVQzcLivdc9k3i7xq0K2FP48jCnCybYR7AJqgb1wHL2zqaDswQg=="
 const val USER_X = "777f9129-262a-4917-803d-883acd93ece0"
 const val APPS_FLYER = "jLNYzxQAqxAFeturo6YEAD"
 const val URL_ANALYTICS = "https://analyticsharks.xyz"
@@ -49,7 +49,7 @@ const val CHANNEL_NAME = "Firebase Channel"
 const val LINK = "link"
 const val TAG = "AppTag"
 
-const val APP_ID_HMS = "109290205"
+const val APP_ID_HMS = "109379995"
 
 const val KEY1 = "key1"
 const val KEY2 = "key2"
